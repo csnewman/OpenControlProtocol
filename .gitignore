@@ -1,0 +1,13 @@
+#Arduino Nano
+ArduinoNano/*.atsln
+ArduinoNano/*.atsuo
+ArduinoNano/*/*.cppproj
+ArduinoNano/*/Visual Micro
+
+#Java Universal
+JavaUniversal/.metadata
+JavaUniversal/.recommenders
+JavaUniversal/*/.settings
+JavaUniversal/*/bin
+JavaUniversal/*/.classpath
+JavaUniversal/*/.project
